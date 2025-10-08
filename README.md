@@ -24,7 +24,7 @@ I am a recent graduate of the prestigious **Erasmus Mundus Joint Master's Degree
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Hydrological Modeling** | SWAT (QSWAT, SWAT-CUP), MODFLOW (GMS), HEC-RAS, SWMM, BASEMENT, AquaCrop, WEAP |
+| **Hydrological Modeling** | SWAT (QSWAT, RSWAT, SWAT-CUP), MODFLOW (GMS), HEC-RAS, SWMM, BASEMENT, AquaCrop, WEAP |
 | **Geospatial & RS** | QGIS, ArcGIS, ERDAS Imagine |
 | **Programming & Data** | Python (Jupyter, VS Code for data analysis, modeling, and scripting) |
 | **Geochemical Modeling** | PHREEQC, SEAWAT |
